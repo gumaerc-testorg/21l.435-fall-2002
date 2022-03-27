@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 51922145-1d2d-d63b-050d-ea434c466558
 resourcetype: Document
 title: 'Shakespeare on Screen: An Annotated Checklist'
 uid: 7e697b94-dc26-5716-9dd8-1d93c8ec3bc0

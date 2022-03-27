@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 51922145-1d2d-d63b-050d-ea434c466558
 resourcetype: Document
 title: Syllabus
 uid: 18499d51-fcff-b522-2a4c-67b459a824c7

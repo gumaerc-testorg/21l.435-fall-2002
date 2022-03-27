@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 51922145-1d2d-d63b-050d-ea434c466558
 resourcetype: Document
 title: Films and Readings
 uid: 5ccf18a7-5043-63b8-9e23-93ef90eb852a
