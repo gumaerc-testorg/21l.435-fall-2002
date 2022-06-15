@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, class
+  sessions, assignments, and criticism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,4 +32,4 @@ The assignments for this subject will include:
 Criticism
 ---------
 
-A list in the [study materials]({{< baseurl >}}/pages/study-materials) section includes a few key articles and books relevant to the films we will study. Starred entries appear in the [calendar]({{< baseurl >}}/pages/calendar) and everyone should read them. Others are recommended and may be useful in preparing final projects.
+A list in the {{% resource_link 51922145-1d2d-d63b-050d-ea434c466558 "study materials" %}} section includes a few key articles and books relevant to the films we will study. Starred entries appear in the {{% resource_link 06064e70-8cbb-73bb-0008-a7af1378d223 "calendar" %}} and everyone should read them. Others are recommended and may be useful in preparing final projects.
