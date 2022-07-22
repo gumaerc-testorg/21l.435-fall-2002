@@ -1,15 +1,18 @@
 ---
 content_type: page
+description: This section provides the list of films and readings for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 51922145-1d2d-d63b-050d-ea434c466558
 ---
 
-Shakespeare on Screen: An Annotated Checklist ([PDF]({{< baseurl >}}/resources/f02onscreen))
+Shakespeare on Screen: An Annotated Checklist ({{% resource_link 7e697b94-dc26-5716-9dd8-1d93c8ec3bc0 "PDF" %}})
 
 {{< anchor "menu" >}}{{< /anchor >}}Films & Readings
 ----------------------------------------------------
 
-PDF version ([PDF]({{< baseurl >}}/resources/f02filmreadings))
+PDF version ({{% resource_link 5ccf18a7-5043-63b8-9e23-93ef90eb852a "PDF" %}})
 
 *   [Midsummer Night's Dream](#midsummer)
 *   [Henry IV, Parts 1 and 2; Henry V](#henry)
