@@ -28,19 +28,19 @@ PDF version ({{% resource_link 5ccf18a7-5043-63b8-9e23-93ef90eb852a "PDF" %}})
 
 Primary Films
 
-> [Reinhardt, Max and William Dieterle](http://www.imdb.com/title/tt0026714/). (1935): VHS, laserdisc.
+> {{% resource_link "598510b2-747d-4362-b8cf-3a0c31424903" "Reinhardt, Max and William Dieterle" %}}. (1935): VHS, laserdisc.
 > 
-> [Hall, Peter](http://www.imdb.com/title/tt0063297/). (1968): VHS.
+> {{% resource_link "6d7e47ac-aceb-421c-a0b6-f613ef551351" "Hall, Peter" %}}. (1968): VHS.
 > 
-> [Hoffman, Michael](http://www.imdb.com/title/tt0140379/). (1999): VHS, DVD.
+> {{% resource_link "f35a6f93-0703-4da8-a1ad-fcbb80e8fbf4" "Hoffman, Michael" %}}. (1999): VHS, DVD.
 
 Related Films
 
-> Weir, Peter. [_Dead Poets' Society_](http://www.imdb.com/title/tt0097165/). (1989)
+> Weir, Peter. {{% resource_link "c60d100d-c384-4e66-a146-8b2873b2b2ad" "_Dead Poets' Society_" %}}. (1989)
 > 
-> Noble, Adrian. [_Midsummer Night's Dream_](http://www.imdb.com/title/tt0117043/). (1996)
+> Noble, Adrian. {{% resource_link "a8eacbd4-be9c-43bf-9b65-d60aad9dd45d" "_Midsummer Night's Dream_" %}}. (1996)
 > 
-> Edzard, Christine. [_Children's Midsummer Night's Dream_](http://www.imdb.com/title/tt0289114/). (2001)
+> Edzard, Christine. {{% resource_link "23413099-fc68-49e1-823c-7588f085e1e1" "_Children's Midsummer Night's Dream_" %}}. (2001)
 
 Criticism
 
@@ -66,17 +66,17 @@ Criticism
 
 Primary Films
 
-> Olivier, Laurence. [_Henry V_](http://www.imdb.com/title/tt0036910/). (1944): VHS, laserdisc, DVD.
+> Olivier, Laurence. {{% resource_link "f11fd418-f90a-41c4-a3bd-68de5ac123c9" "_Henry V_" %}}. (1944): VHS, laserdisc, DVD.
 > 
-> Branagh, Kenneth. [_Henry V_](http://www.imdb.com/title/tt0097499/). (1989): VHS, laserdisc, DVD.
+> Branagh, Kenneth. {{% resource_link "f19939f5-321a-4929-a343-2d705800ccf9" "_Henry V_" %}}. (1989): VHS, laserdisc, DVD.
 > 
-> Van Sant, Gus. [_My Own Private Idaho_](http://www.imdb.com/title/tt0102494/). (1991): VHS, laserdisc.
+> Van Sant, Gus. {{% resource_link "69093bc8-d6f5-4266-b384-c494853b8dfb" "_My Own Private Idaho_" %}}. (1991): VHS, laserdisc.
 
 Related Films
 
 > Giles, David. _Henry IV, Pt. 1; Henry IV, Pt. 2; Henry V._ \[The Shakespeare plays, BBC TV\]. (1979)
 > 
-> Welles, Orson. [_Chimes at Midnight_](http://www.imdb.com/title/tt0059012/). (1966). VHS
+> Welles, Orson. {{% resource_link "ebe412ce-b65e-4070-b83d-3ffc66dc2386" "_Chimes at Midnight_" %}}. (1966). VHS
 
 Criticism
 
@@ -102,15 +102,15 @@ Criticism
 
 Primary Films
 
-> Zeffirelli, Franco. [_Taming of the Shrew_](http://www.imdb.com/title/tt0061407/). (1967): VHS, laserdisc, DVD.
+> Zeffirelli, Franco. {{% resource_link "1b64e96b-5bd6-4c51-b718-41cefd9a1ba1" "_Taming of the Shrew_" %}}. (1967): VHS, laserdisc, DVD.
 > 
-> Junger, Gil. [_10 Things I Hate About You_](http://www.imdb.com/title/tt0147800/). (1999): VHS, DVD.
+> Junger, Gil. {{% resource_link "7d7a53ff-de59-48fc-a9e3-57501874eef5" "_10 Things I Hate About You_" %}}. (1999): VHS, DVD.
 
 Related Films
 
-> Fuller, Sam. [_Taming of the Shrew_](http://www.imdb.com/title/tt0020479/). (1929)
+> Fuller, Sam. {{% resource_link "7b1708cd-f2f0-4478-86d6-be23cf433b62" "_Taming of the Shrew_" %}}. (1929)
 > 
-> Heckerling, Amy. [_Clueless_](http://www.imdb.com/title/tt0112697/). (1999)
+> Heckerling, Amy. {{% resource_link "feb5caf6-a813-43a9-b19e-f4aa4184ce9c" "_Clueless_" %}}. (1999)
 
 Criticism
 
@@ -128,19 +128,19 @@ Criticism
 
 Primary Films
 
-> Zeffirelli, Franco. [_Romeo and Juliet_](http://www.imdb.com/title/tt0063518/). (1968)
+> Zeffirelli, Franco. {{% resource_link "8821b7f5-27e7-462f-8fac-05e80598d548" "_Romeo and Juliet_" %}}. (1968)
 > 
-> Luhrmann, Baz. [_William Shakespeare's Romeo + Juliet_](http://www.imdb.com/title/tt0117509/). (1996)
+> Luhrmann, Baz. {{% resource_link "038fc6bc-9769-48ea-9625-d220e77402ab" "_William Shakespeare's Romeo + Juliet_" %}}. (1996)
 > 
-> Madden, John. [_Shakespeare in Love_](http://www.imdb.com/title/tt0138097/). (1998)
+> Madden, John. {{% resource_link "9b8dbc80-40e8-4752-a4bb-0db7df35d799" "_Shakespeare in Love_" %}}. (1998)
 
 Related Films
 
-> Cukor, George. [_Romeo and Juliet_](http://www.imdb.com/title/tt0028203/). (1936)
+> Cukor, George. {{% resource_link "17212f4b-49bf-4e21-8de5-ec55e325a984" "_Romeo and Juliet_" %}}. (1936)
 > 
-> Castellani, Renato. [_Romeo and Juliet_](http://www.imdb.com/title/tt0047029/). (1954)
+> Castellani, Renato. {{% resource_link "53fd950e-1089-4489-b31e-d3dd584d7bc0" "_Romeo and Juliet_" %}}. (1954)
 > 
-> Wise, Robert. [West Side Story](http://www.imdb.com/title/tt0055614/). (1961)
+> Wise, Robert. {{% resource_link "0363734a-e57f-4a03-86a6-c1f6db2c28c7" "West Side Story" %}}. (1961)
 
 Criticism
 
@@ -162,25 +162,25 @@ Criticism
 
 Primary Films
 
-> Olivier, Laurence. [_Hamlet_](http://www.imdb.com/title/tt0040416/). (1948)
+> Olivier, Laurence. {{% resource_link "07fd3df2-7c63-41c8-8cda-6f7ea87e6ff1" "_Hamlet_" %}}. (1948)
 > 
-> Almereyda, Michael. [_Hamlet_](http://www.imdb.com/title/tt0171359/). (2000)
+> Almereyda, Michael. {{% resource_link "4644ee30-4a1e-4383-9fe5-d4b861477e8b" "_Hamlet_" %}}. (2000)
 
 Related Films
 
-> Gade, Svend. [_Hamlet_](http://www.imdb.com/title/tt0012249/). (1920)
+> Gade, Svend. {{% resource_link "92cdac44-ce68-4e4e-a76d-8d8ce1251a3f" "_Hamlet_" %}}. (1920)
 > 
-> Gielgud, John. [_Hamlet_](http://www.imdb.com/title/tt0058175/). (1964) \["electronovision" version of 1964 stage production\]
+> Gielgud, John. {{% resource_link "357cef0f-a829-49b4-b667-4b2a64568f70" "_Hamlet_" %}}. (1964) \["electronovision" version of 1964 stage production\]
 > 
-> Kozintsev, Grigorii. [_Hamlet_](http://www.imdb.com/title/tt0058175/). (1964)
+> Kozintsev, Grigorii. {{% resource_link "357cef0f-a829-49b4-b667-4b2a64568f70" "_Hamlet_" %}}. (1964)
 > 
-> Richardson, Tony. [_Hamlet_](http://www.imdb.com/title/tt0064400/). (1969)
+> Richardson, Tony. {{% resource_link "a11513b4-692e-4835-b607-f6586e5605bc" "_Hamlet_" %}}. (1969)
 > 
-> Lyth, Ragnar. [_Hamlet_](http://us.imdb.com/title/tt0088293/). (1982)
+> Lyth, Ragnar. {{% resource_link "e7295833-9747-4953-bbff-0078ee1f3c93" "_Hamlet_" %}}. (1982)
 > 
-> Zeffirelli, Franco. [_Hamlet_](http://www.imdb.com/title/tt0099726/). (1990)
+> Zeffirelli, Franco. {{% resource_link "50fccd00-5890-41d8-89bd-bd425e56c6fe" "_Hamlet_" %}}. (1990)
 > 
-> Branagh, Kenneth. [_Hamlet_](http://www.imdb.com/title/tt0116477/). (1996)
+> Branagh, Kenneth. {{% resource_link "0ea0deb8-fc13-48af-9d78-a16f6314eca6" "_Hamlet_" %}}. (1996)
 
 Criticism
 
@@ -204,13 +204,13 @@ Criticism
 
 Primary Films
 
-> Loncraine, Richard. [_Richard III_](http://www.imdb.com/title/tt0114279/). (1996)
+> Loncraine, Richard. {{% resource_link "d3b042ab-118e-492b-a2f3-72443f176fe2" "_Richard III_" %}}. (1996)
 > 
-> Pacino, Al. _[Looking for Richard](http://www.imdb.com/title/tt0116913/)._ (1996)
+> Pacino, Al. _{{% resource_link "2b60e2c7-0998-4fb4-bfe3-9791b80d9491" "Looking for Richard" %}}._ (1996)
 
 Related Films
 
-> Olivier, Laurence. [_Richard III_](http://www.imdb.com/title/tt0049674/). (1953
+> Olivier, Laurence. {{% resource_link "44a87dea-0a98-429b-93f5-f1bd7e52dbae" "_Richard III_" %}}. (1953
 
 Criticism
 ---------
@@ -229,11 +229,11 @@ Criticism
 
 Primary Films
 
-> Taymor, Julie. [_Titus_](http://www.imdb.com/title/tt0120866/). (1999)
+> Taymor, Julie. {{% resource_link "b5b77066-03ad-40ba-b692-5f9b6c822fbb" "_Titus_" %}}. (1999)
 
 Related Films
 
-> Howell, Jane. [_Titus Andronicus_](http://www.imdb.com/title/tt0090178/). (1985)
+> Howell, Jane. {{% resource_link "84578047-c444-4efb-bc8a-c542ea181f60" "_Titus Andronicus_" %}}. (1985)
 
 Criticism
 
@@ -245,17 +245,17 @@ Criticism
 
 Primary Films
 
-> Elliott, Michael. [_King Lear_](http://www.imdb.com/title/tt0087561/). (1984)
+> Elliott, Michael. {{% resource_link "0f790a9b-08ff-47c2-a2f0-7ccde75b08b8" "_King Lear_" %}}. (1984)
 > 
-> Godard, Jean-Luc. [_King Lear_](http://www.imdb.com/title/tt0093349/). (1987)
+> Godard, Jean-Luc. {{% resource_link "7b93fc8e-f1c1-4cd2-889f-1d69c453a060" "_King Lear_" %}}. (1987)
 
 Related Films
 
-> Kozintsev, Grigorii. [_King Lear_](http://www.imdb.com/title/tt0064553/). (1970)
+> Kozintsev, Grigorii. {{% resource_link "9ed4871c-7a77-4dd7-bbcb-1ddc17630e69" "_King Lear_" %}}. (1970)
 > 
-> Brook, Peter. [_King Lear_](http://www.imdb.com/title/tt0067306/). (1971)
+> Brook, Peter. {{% resource_link "43375f5b-20d7-4bb5-ae83-596108dddb87" "_King Lear_" %}}. (1971)
 > 
-> Kurosawa, Akira. [_Ran_](http://www.imdb.com/title/tt0089881/). (1985)
+> Kurosawa, Akira. {{% resource_link "0852e0ba-beaa-4989-8e65-e26842464a76" "_Ran_" %}}. (1985)
 
 Criticism
 
@@ -271,15 +271,15 @@ Criticism
 
 Primary Films
 
-> Mazursky, Paul. [_Tempest_](http://www.imdb.com/title/tt0084776/). (1982)
+> Mazursky, Paul. {{% resource_link "57ee4168-f654-4fe2-8420-3c3a9b1d6010" "_Tempest_" %}}. (1982)
 > 
-> Greenaway, Peter. [_Prospero's Books_](http://www.imdb.com/title/tt0102722/). (1991)
+> Greenaway, Peter. {{% resource_link "45b0441a-eb80-4921-83dd-7a222eb89717" "_Prospero's Books_" %}}. (1991)
 
 Related Films
 
-> Jarman, Derek. [_The Tempest_](http://www.imdb.com/title/tt0081613/). (1979)
+> Jarman, Derek. {{% resource_link "681e06f5-89f4-4763-b833-e55710a1f02e" "_The Tempest_" %}}. (1979)
 > 
-> Wilcox, Fred M. [_Forbidden Planet_](http://www.imdb.com/title/tt0049223/). (1956)
+> Wilcox, Fred M. {{% resource_link "a7319434-b9c4-4072-954e-3938319160ff" "_Forbidden Planet_" %}}. (1956)
 
 Criticism
 
@@ -291,7 +291,7 @@ Criticism
 > 
 > Donaldson, Peter. "Shakespeare in the Age of Mechanical Reproduction: Sexual and Electronic Magic in _Prospero's Books._" In _Shakespeare the Movie: Popularizing the plays on Film, TV and Video._ Edited by Lynda E. Boose and Richard Burt. New York, NY: Routledge, 1997, pp. 169-185. ISBN: 9780415165853.
 > 
-> Donaldson, Peter. "Digital Archives and Sibylline Fragments: _The Tempest_ and the End of Books." [Postmodern Culture](http://muse.jhu.edu/journals/postmodern_culture/) 8.2 (Jan., 1998). Special Issue on Film.
+> Donaldson, Peter. "Digital Archives and Sibylline Fragments: _The Tempest_ and the End of Books." {{% resource_link "64ddcad5-c1eb-4e0f-a7e1-63f78fc7a8c9" "Postmodern Culture" %}} 8.2 (Jan., 1998). Special Issue on Film.
 > 
 > Fuller, Mary. "Forgetting the _Aeneid._" _American Literary History_ (Summer, 1992): 517-38.
 > 
